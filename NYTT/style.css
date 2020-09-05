@@ -1,0 +1,50 @@
+.pizza1 {
+	background-image: url(pics/beer1.jpg);
+	min-height: 400px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin:50px;
+}
+.text1 {
+	height: 500px;
+	background-color: black;
+	font-size: 25px;
+	font-family: 'Almendra SC';
+	color:white;
+	text-align: center;
+	text-transform: uppercase;
+	opacity: 0.7;
+	margin:50px;
+}
+.pizza2 {
+	background-image: url(pics/bild1.jpg);
+	min-height: 500px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 50px;
+}
+ul {
+	height: 500px;
+	background-color: black;
+	font-size: 25px;
+	font-family: 'Almendra SC';
+	color:white;
+	text-align: center;
+	text-transform: uppercase;
+	list-style-type: none;
+}
+h1{
+	height: 0 auto;
+	background-color: black;
+	font-size: 100px;
+	font-family: 'Almendra SC';
+	color:white;
+	text-align: center;
+	text-transform: uppercase;
+	opacity: 0.9;
+
+}

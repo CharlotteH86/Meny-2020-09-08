@@ -1,0 +1,65 @@
+html {
+	display: block;
+}
+head {
+	display: none;
+}
+body {
+	height: 100%;
+	margin: 0;
+	font-size: 20px;
+	font-family: "Almendra SC";
+	font-size: 30px;
+	font-weight: 300;
+	line-height: 28px;
+	color: #85929E;
+}
+.pic1 {
+	background-image: url("pics/beer1.jpg");
+	min-height:500px;
+
+}
+.pic1 {
+	position: relative;
+	opacity: 0.70;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.span1 {
+	background-color: #111;
+	color: white;
+	padding:20px;
+}
+.text1 {
+	position: absolute;
+	top:50%;
+	width: 100%;
+	text-align: center;
+	color: #212F3C;
+	text-transform: uppercase;
+}
+.title1 .text1 {
+	background-color: red;
+	color: #fff;
+	padding: 30px;
+}
+div {
+	display: block;
+}
+.light1 {
+	background-color: #f4f4f4;
+	color: #fff;
+}
+.sect1 {
+	text-align: center;
+	padding: 50px 80px;
+}
+section {
+	display: block;
+}
+h2 {
+	display: block;
+	font-size: 25px;
+}
